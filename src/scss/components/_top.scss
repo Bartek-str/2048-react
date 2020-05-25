@@ -1,0 +1,19 @@
+.Top {
+    width: 100%;
+    height: 15%;
+    padding-top: 8%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    .upper,
+    .lower {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+    }
+    .lower {
+        padding-top: 1.7rem;
+    }
+}

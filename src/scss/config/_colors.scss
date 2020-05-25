@@ -1,0 +1,95 @@
+.number {
+  font-weight: bold;
+}
+
+.cell {
+  background-color: rgba(238, 228, 218, 0.35);
+}
+
+.color-2 {
+  background-color: #eee4da;
+  .number {
+    color: #776E65;
+    font-size: 5rem;
+  }
+}
+
+.color-4 {
+  background-color: #eee1c9;
+  .number {
+    color: #776E65;
+    font-size: 5rem;
+  }
+}
+
+.color-8 {
+  background: #f3b27a;
+  .number {
+    color: #f9f6f2;
+    font-size: 5rem;
+  }
+}
+
+.color-16 {
+  background: #f69664;
+  .number {
+    color: #f9f6f2;
+    font-size: 5rem;
+  }
+}
+
+.color-32 {
+  background: #f77c5f;
+  .number {
+    color: #f9f6f2;
+    font-size: 5rem;
+  }
+}
+
+.color-64 {
+  background: #f75f3b;
+  .number {
+    color: #f9f6f2;
+    font-size: 5rem;
+  }
+}
+
+.color-128 {
+  background: #edd073;
+  .number {
+    color: #f9f6f2;
+    font-size: 4rem;
+  }
+}
+
+.color-256 {
+  background: #edcc62;
+  .number {
+    color: #f9f6f2;
+    font-size: 4rem;
+  }
+}
+
+.color-512 {
+  background: #edc950;
+  .number {
+    color: #f9f6f2;
+    font-size: 4rem;
+  }
+}
+
+.color-1024 {
+  background: #edc950;
+  .number {
+    color: #f9f6f2;
+    font-size: 3rem;
+  }
+}
+
+.color-2048 {
+  background: #edc950;
+  .number {
+    color: #f9f6f2;
+    font-size: 3rem;
+  }
+}

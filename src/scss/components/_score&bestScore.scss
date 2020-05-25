@@ -1,0 +1,24 @@
+div.Score,
+div.BestScore {
+    width: 40%;
+    margin: 1.5rem 0;
+    background: #bbada0;
+    padding: 15px 5px;
+    font-size: 10rem;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    .scorePoints,
+    .bestScorePoints {
+        font-size: 3rem;
+    }
+}
+
+#title1,
+#title2 {
+    font-size: 2rem;
+}

@@ -1,0 +1,30 @@
+.gameOver {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 10;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(191, 191, 191, 0.9);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    div {
+        text-align: center;
+        text-transform: uppercase;
+        width: 40%;
+        height: 20%;
+        font-size: 10rem;
+        color: #584f46;
+    }
+    button {
+        text-transform: uppercase;
+        width: 40%;
+        height: 20%;
+        font-size: 10rem;
+        background: #8f7a66;
+        color: #f9f6f2;
+        border-radius: 20px;
+    }
+}
